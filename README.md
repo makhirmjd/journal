@@ -7,6 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 # Prerequisites
 1. Java Development Kit Version 8.0
 2. Android Studio 3.0 or higher
+3. Any Android Phone (Android 5.0 - Lollipop or higher)
 
 # Running the tests (To DO)
 Explain how to run the automated tests for this system
